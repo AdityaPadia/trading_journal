@@ -14,7 +14,7 @@ _Example_:
 ## Strategy Logic
 I used long calendar call spreads, shorting a near-term option (1–5 days to expiration) while buying a far-term option (30+ days to expiration). Trade triggers were based on distortions in the IV term structure, especially when steep backwardation appeared ahead of earnings.
 
-🧰 Position Type
+### Position Type
 * Long calendar spread: Near-term short call + long-dated long call
 * Maturity gap: ~30 days
 * Directional bias: Neutral

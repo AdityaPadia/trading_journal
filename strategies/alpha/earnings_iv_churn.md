@@ -57,8 +57,8 @@ Despite promising numbers, my execution was suboptimal:
 * Closed CRM trade ($22k notional) at market while delta was high → large slippage
 
 Trades this week:
-Profitable: NVDA, NTAP, DELL
-Losses: CRM (slippage), PATH (slippage), ZS (RV > IV)
+* Profitable: NVDA, NTAP, DELL
+* Losses: CRM (slippage), PATH (slippage), ZS (RV > IV)
 
 
 ## Reflectinon and Future Improvements

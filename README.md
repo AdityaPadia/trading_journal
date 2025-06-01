@@ -4,4 +4,9 @@ This repository documents my weekly journey in developing, testing, and refining
 
 Each week, I log my trades, rationale, execution details, and post-trade analysis to improve my decision-making and build a repeatable framework. The journal is designed to be **both a learning tool and a portfolio artifact** that demonstrates strategy thinking, risk management, and data-driven reflection.
 
+# 📬 Contact
 
+Feel free to reach out if you're working on similar projects or want to collaborate:
+
+**Aditya Padia**  
+aditya.padia0911@gmail.com
